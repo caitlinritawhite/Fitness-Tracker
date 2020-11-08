@@ -2,6 +2,8 @@
 
 ## Objective
 This application uses a Mongo database to track workout activity. The user is able to log new workouts and view statistics on their past workouts. The application uses JavaScript, Node.js, Express, MongoDB and Mongoose.  
+##Please visit the deployed site  
+https://enigmatic-beach-39575.herokuapp.com/  
 
 **The Fitness Tracker Home Page**    
 ![homepage](homepage.png)  
