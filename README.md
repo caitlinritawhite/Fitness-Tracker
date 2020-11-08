@@ -5,7 +5,7 @@ This application uses a Mongo database to track workout activity. The user is ab
 
 **The Fitness Tracker Home Page**    
 ![homepage](homepage.png)  
-**The Add Workout Page**
-![addworkout](addworkout.png)
+**The Add Workout Page**  
+![addworkout](addworkout.png)  
 **The Workout Dashboard Page**  
 ![workoutdashboard](dashboard.png)  
