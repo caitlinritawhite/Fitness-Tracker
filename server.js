@@ -20,7 +20,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 // If deployed on heroku, use the deployed database. Otherwise use the local workout database
-const MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/workout"
+const MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost:27017/workout"
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/workout',
 {
   useNewUrlParser: true,
